@@ -311,47 +311,6 @@
       ]
     },
     {
-      "slug": "copies",
-      "locked": false,
-      "options": [
-        {
-          "slug": 1,
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": "5",
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": "10",
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": "25",
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": 50,
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": 75,
-          "nullable": false,
-          "type": "digital"
-        },
-        {
-          "slug": 100,
-          "nullable": false,
-          "type": "digital"
-        }
-      ]
-    },
-    {
       "slug": "urgency",
       "title": "Urgentie",
       "locked": false,
@@ -369,18 +328,6 @@
         {
           "slug": "urgent",
           "name": "Spoed",
-          "nullable": false
-        }
-      ]
-    },
-    {
-      "slug": "packaging_extras",
-      "title": null,
-      "locked": false,
-      "options": [
-        {
-          "slug": "packaging_handling",
-          "name": null,
           "nullable": false
         }
       ]

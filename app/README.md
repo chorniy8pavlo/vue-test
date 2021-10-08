@@ -1,4 +1,5 @@
-# app
+# Author words
+Hi! Actually, I am not Vue.js developer, as I told you - I am React dev. But, anyway I've tried to do something using documentation, Google, and my JS skills.
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
